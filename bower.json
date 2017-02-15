@@ -1,0 +1,17 @@
+{
+  "name": "library",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "vikas choudhary"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/vikky410/node-exp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
